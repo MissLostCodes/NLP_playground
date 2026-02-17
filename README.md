@@ -1,1 +1,1 @@
-# This repo contains NLP implementations .
+# This repo contains CLASSICAL NLP implementations .
